@@ -1,0 +1,17 @@
+Name,Phone,Billing Street,Billing City,_error
+Niharika Ben,918276262734,"H.No. 415, Sur",Giridih,"[{'statusCode': 'CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY', 'message': 'accountTrigger: execution of BeforeInsert\n\ncaused by: line 3, column 9: Variable does not exist: AccountTriggerDispatcher', 'fields': []}]"
+Elijah Naidu,917385537003,"010
+Dara",Burhanpur,"[{'statusCode': 'CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY', 'message': 'accountTrigger: execution of BeforeInsert\n\ncaused by: line 3, column 9: Variable does not exist: AccountTriggerDispatcher', 'fields': []}]"
+Wriddhish Palla,916906867932,"H.No. 270, Kamdar Marg",Raiganj,"[{'statusCode': 'CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY', 'message': 'accountTrigger: execution of BeforeInsert\n\ncaused by: line 3, column 9: Variable does not exist: AccountTriggerDispatcher', 'fields': []}]"
+Vivaan Swamy,918673267837,"05/104
+Grover Path",Jamshedpur,"[{'statusCode': 'CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY', 'message': 'accountTrigger: execution of BeforeInsert\n\ncaused by: line 3, column 9: Variable does not exist: AccountTriggerDispatcher', 'fields': []}]"
+Chanakya Parmar,919458144823,"56/602
+Borde Marg",Bokaro,"[{'statusCode': 'CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY', 'message': 'accountTrigger: execution of BeforeInsert\n\ncaused by: line 3, column 9: Variable does not exist: AccountTriggerDispatcher', 'fields': []}]"
+Mason Sant,917341648604,"55/01
+Bassi Nagar",Panchkula,"[{'statusCode': 'CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY', 'message': 'accountTrigger: execution of BeforeInsert\n\ncaused by: line 3, column 9: Variable does not exist: AccountTriggerDispatcher', 'fields': []}]"
+Vinaya Banerjee,917520952599,"60/59, Srinivasan",Alwar,"[{'statusCode': 'CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY', 'message': 'accountTrigger: execution of BeforeInsert\n\ncaused by: line 3, column 9: Variable does not exist: AccountTriggerDispatcher', 'fields': []}]"
+Geetika Uppal,917722770569,"H.No. 604
+Barman Chowk",Gudivada,"[{'statusCode': 'CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY', 'message': 'accountTrigger: execution of BeforeInsert\n\ncaused by: line 3, column 9: Variable does not exist: AccountTriggerDispatcher', 'fields': []}]"
+Nisha Mishra,918597793697,"54/68
+Raghavan Circle",Avadi,"[{'statusCode': 'CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY', 'message': 'accountTrigger: execution of BeforeInsert\n\ncaused by: line 3, column 9: Variable does not exist: AccountTriggerDispatcher', 'fields': []}]"
+Maanav Wable,916032400545,"606, Gala Street",Mirzapur,"[{'statusCode': 'CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY', 'message': 'accountTrigger: execution of BeforeInsert\n\ncaused by: line 3, column 9: Variable does not exist: AccountTriggerDispatcher', 'fields': []}]"

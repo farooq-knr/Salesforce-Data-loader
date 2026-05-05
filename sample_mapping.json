@@ -1,0 +1,13 @@
+{
+  "sobject": "Account",
+  "mappings": {
+    "Name": "Name",
+    "Phone": "Phone",
+    "BillingStreet": "BillingStreet",
+    "BillingCity": "BillingCity"
+  },
+  "options": {
+    "skip_header": true,
+    "date_format": "%Y-%m-%d"
+  }
+}
